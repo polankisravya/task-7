@@ -24,5 +24,4 @@ Install and use Netdata to monitor system and application performance metrics in
 
 ## Screensho!
 [Screenshot-1](https://github.com/user-attachments/assets/e2f0bed8-02bb-4ede-bf84-ba47c438f1bc)
-t
 
