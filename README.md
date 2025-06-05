@@ -23,5 +23,5 @@ Install and use Netdata to monitor system and application performance metrics in
    - Docker container stats
 
 ## Screenshot
-Please add your dashboard screenshot here (screenshot-1.png)
+(screenshot-1.png)
 
